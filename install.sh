@@ -1,1 +1,1 @@
-/Users/simonneuhaus/Library/Android/sdk//platform-tools/adb app/build/outputs/apk/app-debug.apk
+/Users/simonneuhaus/Library/Android/sdk//platform-tools/adb install app/build/outputs/apk/app-debug.apk

@@ -9,7 +9,7 @@ import android.view.inputmethod.InputConnection;
 
 import org.profeda.tudaga.tudagakeyboard.R;
 
-public class SimpleIME extends InputMethodService
+public class TudagaKeyboard extends InputMethodService
         implements KeyboardView.OnKeyboardActionListener {
 
     private KeyboardView kv;

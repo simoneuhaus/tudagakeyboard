@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SimpleKeyboard</string>
-    <string name="simple_ime">Simple IME</string>
-    <string name="subtype_en_US">English (US)</string>
+    <string name="app_name">TudagaKeyboard</string>
+    <string name="tudaga_keyboard">Tudaga Keyboard</string>
+    <string name="subtype_tyq">Tudaga</string>
 </resources>
